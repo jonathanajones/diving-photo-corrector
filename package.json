@@ -1,0 +1,23 @@
+{
+  "name": "diving-photo-corrector",
+  "version": "0.1.0",
+  "description": "Re-adds red channel information to diving photos",
+  "main": "dcc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanajones/diving-photo-corrector.git"
+  },
+  "author": "Jonathan A. Jones",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jonathanajones/diving-photo-corrector/issues"
+  },
+  "private": true,
+  "homepage": "https://github.com/jonathanajones/diving-photo-corrector#readme",
+  "dependencies": {
+    "sharp": "^0.22.0"
+  }
+}
